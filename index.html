@@ -24,6 +24,18 @@
 			#content svg {
 				width: 100px;
 			}
+			@media (prefers-color-scheme: dark) {
+				html {
+					color: #eee;
+					background-color: #222;
+				}
+				p {
+					color: #777;
+				}
+				#content svg {
+					filter: invert(100%);
+				}
+			}
 		</style>
 	</head>
 	<body>
