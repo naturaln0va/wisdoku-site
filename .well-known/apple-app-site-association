@@ -5,7 +5,7 @@
 	  {
 		"appID": "8F78BQBF8V.com.mangroveprayerapp.ios",
 		"paths": [
-		  "/partnership"
+		  "*"
 		]
 	  }
 	]
