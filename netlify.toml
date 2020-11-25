@@ -1,6 +1,6 @@
 [[headers]]
 	# Define which paths this specific [[headers]] block will cover.
-	for = "/.well-known/apple-app-site-association"
+	for = "/apple-app-site-association"
 	
 	[headers.values]
 		Content-Type = "application/json"
